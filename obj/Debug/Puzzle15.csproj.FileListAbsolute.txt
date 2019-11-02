@@ -1,0 +1,10 @@
+C:\Users\akula\Desktop\C#\Backup\Puzzle15\bin\Debug\Puzzle15.exe
+C:\Users\akula\Desktop\C#\Backup\Puzzle15\bin\Debug\Puzzle15.pdb
+C:\Users\akula\Desktop\C#\Backup\Puzzle15\obj\Debug\Puzzle15.csprojAssemblyReference.cache
+C:\Users\akula\Desktop\C#\Backup\Puzzle15\obj\Debug\Puzzle15.DrawPuzzle15Form.resources
+C:\Users\akula\Desktop\C#\Backup\Puzzle15\obj\Debug\Puzzle15.MainForm.resources
+C:\Users\akula\Desktop\C#\Backup\Puzzle15\obj\Debug\Puzzle15.Properties.Resources.resources
+C:\Users\akula\Desktop\C#\Backup\Puzzle15\obj\Debug\Puzzle15.csproj.GenerateResource.cache
+C:\Users\akula\Desktop\C#\Backup\Puzzle15\obj\Debug\Puzzle15.csproj.CoreCompileInputs.cache
+C:\Users\akula\Desktop\C#\Backup\Puzzle15\obj\Debug\Puzzle15.exe
+C:\Users\akula\Desktop\C#\Backup\Puzzle15\obj\Debug\Puzzle15.pdb
